@@ -2,6 +2,8 @@
 
 Creaates a soundboard you build. You click the link it plays a sound on the local speaker setup. 
 
+Paste the 0-runme.sh file in a terminal on a Pi5 with Raspberry Pi OS installed. Need a keyboard, mouse, usb soundcard attached to a speaker and a monitor. 
+
 The numbers in the html could have pictures instead of numbers. You have to edit the index.php. When you click the links it plays the mp3 file from the play.php file. I dont supply the mp3 files for this, you have to supply 1.mp3 through 40.mp3 files. There are two sample mp3 files in there. 
 
 What it looks like on the web page:
