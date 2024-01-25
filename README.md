@@ -1,4 +1,7 @@
 # soundboardpi
+
+YOuj click the link it plays a sound on the local speaker setup. 
+
 The numbers in the html could have pictures instead of numbers. When you click the links it plays the mp3 file from the play.php file. I dont supply the mp3 files for this, You have to supply 1.mp3 through 40.mp3 files. 
 
 What it looks like on the web page:
