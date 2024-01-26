@@ -1,6 +1,6 @@
 # soundboardpi
 
-Creaates a soundboard you build. You click the link it plays a sound on the local speaker setup. 
+Creates a soundboard you build. You click the link it plays a sound on the local speaker setup. 
 
 Paste the 0-runme.sh file in a terminal on a Pi5 with Raspberry Pi OS installed. Need a keyboard, mouse, usb soundcard attached to a speaker and a monitor. After you run the script it reboots and should show the page below. 
 
