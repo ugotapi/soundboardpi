@@ -1,4 +1,4 @@
-# soundboardpi
+# SoundBoardPi
 
 Creates a soundboard you build. You click the link it plays a sound on the local speaker setup. 
 
