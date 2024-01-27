@@ -6,8 +6,7 @@ Paste the 0-runme.sh file in a terminal on a Pi5 with Raspberry Pi OS installed.
 
 After setup you can set it up for remote access, just web browse to the page and click a button for sounds. 
 
-Pi5 8GB with Sound BlasterX G1 usb attached to speaker via 3.5mm audio cable. 
-
+Pi5 8GB with Sound BlasterX G1 usb attached to speaker via 3.5mm audio cable:
 ![unnamed](https://github.com/ugotapi/soundboardpi/assets/14945441/e0c007c8-563a-48b0-82f5-0df7e4088ab2)
 
 
