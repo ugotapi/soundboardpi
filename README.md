@@ -15,3 +15,6 @@ The numbers in the index.php could have pictures instead of numbers. You have to
 
 What it looks like on the web page:
 <img width="1434" alt="image" src="https://github.com/ugotapi/soundboardpi/assets/14945441/1417ee2c-522d-4bbb-9f41-a742de8ca3e8">
+
+What it plays like:
+https://youtube.com/shorts/ju-I5q8XEI4?si=z_qtXJMWbLL3yQCF
