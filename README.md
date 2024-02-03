@@ -18,3 +18,5 @@ What it looks like on the web page:
 
 What it plays like:
 https://youtube.com/shorts/ju-I5q8XEI4?si=z_qtXJMWbLL3yQCF
+
+How to [youtube](https://youtu.be/Eg6ufdbuGIs)https://youtu.be/Eg6ufdbuGIs
