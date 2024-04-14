@@ -1,10 +1,10 @@
 # SoundBoardPi
 
-Creates a soundboard you build. You click the link it plays a sound on the local speaker setup. 
+Creates a soundboard where you click a link in a table cell.  It plays a sound on the local speaker setup. 
 
 Paste the 0-runme.sh file in a terminal on a Pi5 with Raspberry Pi OS installed. Need a keyboard, mouse, usb soundcard attached to a speaker and a monitor. After you run the script it reboots and should show the page below. 
 
-After setup you can set it up for remote access, just web browse to the page and click a button for sounds. 
+After setup you can use it for remote access sounds, just web browse to the page and click a button for sounds. 
 
 Pi5 8GB with Sound BlasterX G1 usb attached to speaker via 3.5mm audio cable:
 ![unnamed](https://github.com/ugotapi/soundboardpi/assets/14945441/e0c007c8-563a-48b0-82f5-0df7e4088ab2)
