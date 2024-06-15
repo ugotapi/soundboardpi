@@ -1,6 +1,6 @@
 # SoundBoardPi
 
-Creates a soundboard where you click a link in a table cell and it plays a sound on the local speaker setup. 
+Creates a soundboard on a web page running via apache2 on the pi device.  If you click a link in a table cell on the screen  it plays a sound file on the local speaker Pi device setup.
 
 Paste the 0-runme.sh file in a terminal on a Pi5 with Raspberry Pi OS installed. Need a keyboard, mouse, usb soundcard attached to a speaker and a monitor. After you run the script it reboots and should show the page below. 
 
