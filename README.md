@@ -10,7 +10,7 @@ Pi5 8GB with Sound BlasterX G1 usb attached to speaker via 3.5mm audio cable:
 ![unnamed](https://github.com/ugotapi/soundboardpi/assets/14945441/e0c007c8-563a-48b0-82f5-0df7e4088ab2)
 
 
-You will have to know how to have a basic php or html editing skills. 
+You will need to have  basic php or html editing skills. 
 The numbers in the index.php could have pictures instead of numbers. You have to edit the text and sound files under /var/www/html folder. When you click the links it plays the mp3 file from the play.php file. I dont supply the mp3 files for this, you have to supply 1.mp3 through 40.mp3 files. There are two sample mp3 files in there. 
 
 What it looks like on the web page:
